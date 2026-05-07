@@ -1,0 +1,4 @@
+{"title":"hus","category":"fo","amount":"250"}
+{"title":"hus","category":"fo","amount":"250"}
+{"title":"","category":"","amount":""}
+{"title":"fruit","category":"food","amount":"500"}
